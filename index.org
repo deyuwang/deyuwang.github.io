@@ -1,0 +1,13 @@
+
+[[https://deyuwang.github.io/blog][博客]] *|* [[https://github.com/deyuwang][Github]] *|*
+#+TITLE:       我的Blog
+#+AUTHOR:      Deyu Wang
+#+DATE:        2015-01-16
+#+EMAIL:       deyuwang97@163.com
+#+DESCRIPTION: Deyu Wang的个人博客
+#+KEYWORDS:    deyu wang blog
+#+LANGUAGE:    cn
+#+TEXT:        欢迎访问我的博客
+#+TEXT:        个人点滴
+
+* 开始写博客
